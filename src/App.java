@@ -19,5 +19,8 @@ System.out.println("New code from US guy");
 	{
 		System.out.println("Method added by Indian Architect");
 	}
-
+	public void method3()
+	{
+		System.out.println("Method added by US Architect");
+	}
 }
